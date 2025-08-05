@@ -31,7 +31,11 @@ I work with both **frontend** and **backend** technologies to create creative an
 
 ## 📬 My Discord Server  
 
-
+<p align="center">
+  <a href="https://discord.gg/mT2tq7P5Cz">
+    <img src="https://discord.com/api/guilds/1402160971346350151/widget.png?style=banner2" alt="Discord Server" />
+  </a>
+</p>
 
 ## 🌐 My Website
 
