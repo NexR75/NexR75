@@ -40,7 +40,7 @@ I work with both **frontend** and **backend** technologies to create creative an
 ## 💻 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NexR&show_icons=true&theme=radical" alt="NexR GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NexR75&show_icons=true&theme=radical" alt="NexR GitHub Stats" />
 </p>
 
 ---
