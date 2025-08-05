@@ -46,4 +46,4 @@ I work with both **frontend** and **backend** technologies to create creative an
 
 ---
 
-> _Made with 💖 by **NexR**_
+> _Made with 💙 by **NexR**_
