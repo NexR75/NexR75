@@ -35,6 +35,13 @@ I work with both **frontend** and **backend** technologies to create creative an
   https://nexr75.vercel.app/
 </p>
 
+---
+
+## 💻 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NexR&show_icons=true&theme=radical" alt="NexR GitHub Stats" />
+</p>
 
 ---
 
