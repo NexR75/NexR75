@@ -27,19 +27,6 @@ I work with both **frontend** and **backend** technologies to create creative an
   </a>
 </p>
 
-
----
-
-## 📂 Featured Projects
-
-### 🌐 Web Development
-- **Portfolio Website** – Responsive personal portfolio with HTML, CSS, JS.
-- **Landing Pages** – Eye-catching landing pages for clients and personal use.
-
-### 🤖 Discord Bots
-- **Multi-Purpose Bot** – Music, moderation, leveling, and more.
-- **YouTube Notifier Bot** – Sends notifications to Discord when new YouTube videos are uploaded.
-
 ---
 
 ## 📬 My Discord Server  
