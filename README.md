@@ -14,16 +14,19 @@ I work with both **frontend** and **backend** technologies to create creative an
 ## 🚀 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,discord,python,github,git,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,discord,python,github,git,vscode&theme=dark" />
 </p>
 
 ---
 
 ## 📡 My Discord Status
+
 <p align="center">
-[![Discord Presence](https://lanyard.cnrad.dev/api/1297117099638128662?theme=dark&showDisplayName=true&idleMessage=%F0%9F%92%A4%20Just%20relaxing...)](https://discord.com/users/1297117099638128662)
+  <a href="https://discord.com/users/1297117099638128662">
+    <img src="https://lanyard.cnrad.dev/api/1297117099638128662?bg=030828&borderRadius=15px&animated=true&theme=dark&showDisplayName=true&idleMessage=%F0%9F%92%A4%20Just%20relaxing..." alt="Discord Presence" />
   </a>
 </p>
+
 
 ---
 
