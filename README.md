@@ -44,12 +44,11 @@ I work with both **frontend** and **backend** technologies to create creative an
 
 ## 📬 Contact Me  
 <p align="center">
-  <a href="https://discord.com/users/1297117099638128662"><img src="https://img.shields.io/badge/Discord-%230fa6f9.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://discord.com/invite/YOUR_SERVER_INVITE">
-    <img src="https://img.shields.io/endpoint?url=https://discord.com/api/guilds/YOUR_SERVER_ID/widget.json" />
+
+  <a href="https://discord.com/invite/1402160971346350151">
+    <img src="https://img.shields.io/endpoint?url=https://discord.com/api/guilds/1402160971346350151/widget.json" />
   </a>
-  <a href="mailto:nexr7878@example.com"><img src="https://img.shields.io/badge/Email-%230a60d9.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/NexR75"><img src="https://img.shields.io/badge/GitHub-%23030828.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+
 </p>
 
 
