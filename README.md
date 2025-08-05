@@ -47,20 +47,4 @@ I work with both **frontend** and **backend** technologies to create creative an
 
 ---
 
-## 📊 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NexR75&theme=skyblue&hide_border=true" alt="NexR75 GitHub Streak" />
-</p>
-
----
-
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=NexR75&theme=github&bg_color=FFFFFF&hide_border=true" alt="NexR75 GitHub Activity Graph" />
-</p>
-
----
-
 > _Made with 💙 by **NexR75**_
