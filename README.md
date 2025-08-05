@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0fa6f9&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+NexR+%F0%9F%91%8B" alt="Typing Effect: Hi, I'm NexR">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0fa6f9&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+NexR75+%F0%9F%91%8B" alt="Typing Effect: Hi, I'm NexR75">
 </h1>
 <p align="center">
   💻 Website Developer | 🤖 Discord Bot Developer
@@ -42,7 +42,7 @@ I work with both **frontend** and **backend** technologies to create creative an
 ## 💻 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NexR&show_icons=true&theme=skyblue" alt="NexR GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NexR75&show_icons=true&theme=skyblue" alt="NexR75 GitHub Stats" />
 </p>
 
 ---
@@ -50,13 +50,13 @@ I work with both **frontend** and **backend** technologies to create creative an
 ## 📊 More GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NexR75&theme=skyblue" alt="NexR GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NexR75&theme=skyblue" alt="NexR75 GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=NexR75&theme=skyblue&bg_color=FFFFFF" alt="NexR GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=NexR75&theme=skyblue&bg_color=FFFFFF" alt="NexR75 GitHub Activity Graph" />
 </p>
 
 ---
 
-> _Made with 💙 by **NexR**_
+> _Made with 💙 by **NexR75**_
