@@ -19,7 +19,7 @@ I work with both **frontend** and **backend** technologies to create creative an
 
 ---
 
-## 📡 My Discord Status
+## 📡 My Discord 
 
 <p align="center">
   <a href="https://discord.com/users/1297117099638128662">
@@ -42,7 +42,7 @@ I work with both **frontend** and **backend** technologies to create creative an
 
 ---
 
-## 📬 Contact Me  
+## 📬 My Discord Server  
 
 <p align="center">
   <a href="https://discord.gg/vucrQXg4">
