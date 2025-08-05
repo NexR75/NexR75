@@ -19,10 +19,9 @@ I work with both **frontend** and **backend** technologies to create creative an
 
 ---
 
-## 📡 My Discord Status (via Lanyard API)
+## 📡 My Discord Status
 <p align="center">
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
-    <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?bg=030828&borderRadius=15px&animated=true&idleMessage=Probably%20coding%20something%20cool%20💻" alt="Discord Presence" />
+[![Discord Presence](https://lanyard.cnrad.dev/api/1297117099638128662?theme=dark&showDisplayName=true&idleMessage=%F0%9F%92%A4%20Just%20relaxing...)](https://discord.com/users/1297117099638128662)
   </a>
 </p>
 
