@@ -40,8 +40,7 @@ I work with both **frontend** and **backend** technologies to create creative an
 ## 🌐 My Website
 
 <p align="center">
- <a herf="https://nexr75.vercel.app">
- </a>
+  https://nexr75.vercel.app/
 </p>
 
 
