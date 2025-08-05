@@ -41,6 +41,7 @@ I work with both **frontend** and **backend** technologies to create creative an
 
 <p align="center">
  <a herf="https://nexr75.vercel.app">
+ </a>
 </p>
 
 
