@@ -45,7 +45,7 @@ I work with both **frontend** and **backend** technologies to create creative an
 ## 📬 Contact Me  
 <p align="center">
 
-  <a href="https://discord.com/invite/1402160971346350151">
+  <a href="https://discord.gg/vucrQXg4">
     <img src="https://img.shields.io/endpoint?url=https://discord.com/api/guilds/1402160971346350151/widget.json" />
   </a>
 
