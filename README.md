@@ -39,7 +39,7 @@ I specialize in music, moderation, and AI-powered bots that make Discord servers
   <a href="https://dev.to/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
-  <a href="https://instagram.com/yourusername" target="_blank">
+  <a href="https://instagram.com/nexr7755" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://facebook.com/nexrr7776" target="_blank">
