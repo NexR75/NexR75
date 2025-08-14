@@ -33,10 +33,10 @@ I specialize in music, moderation, and AI-powered bots that make Discord servers
   <a href="https://www.youtube.com/NexR7755" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://x.com/yourusername" target="_blank">
+  <a href="https://x.com/NexR7755" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://dev.to/yourusername" target="_blank">
+  <a href="https://dev.to/nexr75" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
   <a href="https://instagram.com/nexr7755" target="_blank">
