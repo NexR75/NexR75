@@ -14,7 +14,7 @@ I specialize in music, moderation, and AI-powered bots that make Discord servers
 - 💻 Mainly **JavaScript (Node.js)** & **Discord.js v14**
 - 🎵 Visual **music card UIs** + queue controls
 - 🛠 Experience with **MongoDB, Canvas, API integrations**
-- 🚀 Always experimenting with new bot features
+- ⚡ Always experimenting with new bot features
 
 ---
 
