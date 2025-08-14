@@ -49,6 +49,4 @@ I specialize in music, moderation, and AI-powered bots that make Discord servers
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Imagination%20is%20more%20important%20than%20knowledge.%20Knowledge%20is%20limited.%20Imagination%20encircles%20the%20world.&author=Albert%20Einstein&quoteColor=%FF0000&authorColor=%23FFD700" alt="Einstein Quote">
-</p>
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)](https://github.com/piyushsuthar/github-readme-quotes)
