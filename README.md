@@ -49,4 +49,8 @@ I specialize in music, moderation, and AI-powered bots that make Discord servers
 
 ---
 
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="readme Quotes" />
+  </a>
+</div>
