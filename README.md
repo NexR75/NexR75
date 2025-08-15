@@ -7,7 +7,7 @@
 
 ---
 
-## 👋 About Me
+## `👋` About Me
 Hey! I’m **NexR** — a passionate **Discord Bot Developer** who loves creating interactive, feature-rich bots.  
 I specialize in music, moderation, and AI-powered bots that make Discord servers more fun and functional.
 
@@ -17,14 +17,14 @@ I specialize in music, moderation, and AI-powered bots that make Discord servers
 
 ---
 
-## 🛠 Tech Stack
+## `🛠` Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,nodejs,discordjs,mongodb,python,vscode&theme=dark" />
 </p>
 
 ---
 
-## 🌐 Social Links
+## `🌐` Social Links
 <p align="center">
   <a href="https://discord.com/users/1297117099638128662" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
