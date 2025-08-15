@@ -17,7 +17,7 @@ I specialize in music, moderation, and AI-powered bots that make Discord servers
 
 ---
 
-## `🛠` Tech Stack
+## `💻` Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,nodejs,discordjs,mongodb,python,vscode&theme=dark" />
 </p>
