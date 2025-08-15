@@ -12,7 +12,6 @@ Hey! I’m **NexR** — a passionate **Discord Bot Developer** who loves creatin
 I specialize in music, moderation, and AI-powered bots that make Discord servers more fun and functional.
 
 - 💻 Mainly **JavaScript (Node.js)** & **Discord.js v14**
-- 🎵 Visual **music card UIs** + queue controls
 - 🛠 Experience with **MongoDB, Canvas, API integrations**
 - ⚡ Always experimenting with new bot features
 
